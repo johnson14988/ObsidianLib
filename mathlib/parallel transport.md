@@ -1,0 +1,1 @@
+![[parallel transport on a sphere.png]]

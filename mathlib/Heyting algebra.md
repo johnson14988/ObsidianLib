@@ -1,2 +1,2 @@
 # def
-[[algebra structure list#Heyting algebra]]
+[[algebra structures#Heyting algebra]]

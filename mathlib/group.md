@@ -1,2 +1,2 @@
 # def
-[[algebra structure list#group]]
+[[algebra structures#group]]

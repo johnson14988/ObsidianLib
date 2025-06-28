@@ -1,2 +1,2 @@
 # def
-[[algebra structure list#algebra over a ring $ mathrm{R}$ with identity]]
+[[algebra structures#algebra over a ring $ mathrm{R}$ with identity]]

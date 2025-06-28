@@ -1,2 +1,2 @@
 # def
-[[algebra structure list#semigroup]]
+[[algebra structures#semigroup]]

@@ -1,2 +1,2 @@
 # def
-[[algebra structure list#bounded lattice]]
+[[algebra structures#bounded lattice]]

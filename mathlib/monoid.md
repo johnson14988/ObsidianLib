@@ -1,2 +1,2 @@
 # def
-[[algebra structure list#monoid]]
+[[algebra structures#monoid]]

@@ -1,2 +1,2 @@
 # def
-[[algebra structure list#ring]]
+[[algebra structures#ring]]

@@ -1,2 +1,2 @@
 # def
-[[algebra structure list#ortholattice]]
+[[algebra structures#ortholattice]]

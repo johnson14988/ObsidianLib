@@ -1,2 +1,2 @@
 # def
-[[algebra structure list#quasigroup]]
+[[algebra structures#quasigroup]]

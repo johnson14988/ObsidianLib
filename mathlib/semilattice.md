@@ -1,2 +1,2 @@
 # def
-[[algebra structure list#semilattice]]
+[[algebra structures#semilattice]]

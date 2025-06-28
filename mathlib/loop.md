@@ -1,2 +1,2 @@
 # def
-[[algebra structure list#loop]]
+[[algebra structures#loop]]

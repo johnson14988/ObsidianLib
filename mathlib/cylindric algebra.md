@@ -1,2 +1,2 @@
 # def
-[[algebra structure list#cylindric algebra of dimension $n$]]
+[[algebra structures#cylindric algebra of dimension $n$]]
